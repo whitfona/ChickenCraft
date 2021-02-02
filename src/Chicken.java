@@ -2,7 +2,7 @@
 /**
  * This class creates the chickens, User is able to set name and initial amount of seed in chicken's stomach
  * and then interact with chicken.
- * @author Nick Whitford, 000827869
+ * @author Nick Whitford
  */
 public class Chicken {
     //create all the variables
