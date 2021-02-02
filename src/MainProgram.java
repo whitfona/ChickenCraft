@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Welcome to the world of 'ChickenCraft'
  * Interact with your chickens by feeding, playing or hitting them
- * @author Nick Whitford, 000827869
+ * @author Nick Whitford
  */
 
 public class MainProgram {
